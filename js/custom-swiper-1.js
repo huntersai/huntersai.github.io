@@ -1,7 +1,7 @@
 const swiper = new Swiper('.swiper', {
 
   autoplay: {
-     delay: 3000,
+     delay: 7000,
      disableOnInteraction: false
    },
 
